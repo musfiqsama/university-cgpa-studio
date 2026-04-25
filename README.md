@@ -33,7 +33,7 @@ A modern and responsive CGPA calculator with dashboard, planner, and report feat
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/university-cgpa-studio.git
+git clone https://github.com/musfiqsama/university-cgpa-studio.git
 cd university-cgpa-studio
 ```
 
