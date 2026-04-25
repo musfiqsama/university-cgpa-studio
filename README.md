@@ -7,11 +7,6 @@ A modern and responsive CGPA calculator with dashboard, planner, and report feat
 
 ---
 
-## 📸 Screenshots
-
-![Dashboard](./screenshots/dashboard.png)
-![Calculator](./screenshots/calculator.png)
-![Report](./screenshots/report.png)
 
 ---
 
