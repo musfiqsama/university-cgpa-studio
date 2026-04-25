@@ -5,10 +5,6 @@ A modern and responsive CGPA calculator with dashboard, planner, and report feat
 ---
 
 
----
-
-
----
 
 ## 🚀 Features
 
